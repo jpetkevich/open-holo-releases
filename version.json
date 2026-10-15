@@ -1,0 +1,11 @@
+{
+  "latest": "1.1.0",
+  "minimum_supported": "0.0.0",
+  "released_at": null,
+  "notes_url": "https://github.com/jpetkevich/open-holo-releases/releases",
+  "downloads": {
+    "windows": "https://github.com/jpetkevich/open-holo-releases/releases/latest",
+    "linux": "https://github.com/jpetkevich/open-holo-releases/releases/latest"
+  },
+  "app_store_url": null
+}
