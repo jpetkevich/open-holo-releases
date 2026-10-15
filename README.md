@@ -8,6 +8,10 @@ Open Holo is a free app for collectors of trading cards (Magic: The Gathering, P
 - **Mac:** the App Store, later.
 - **Windows 10 or 11, and Linux:** coming. Installers will be on the [releases page](https://github.com/jpetkevich/open-holo-releases/releases), each with `SHA256SUMS` so you can check a download (`sha256sum -c SHA256SUMS`).
 
+## Support
+
+Questions, problems or ideas: email [support@fordycecg.com](mailto:support@fordycecg.com). Please say which device you use and what you tried.
+
 ## Terms
 
 Open Holo is free of charge and closed source. By installing it you accept the [licence](EULA.md); how it handles data is in the [privacy policy](PRIVACY.md).
