@@ -1,15 +1,16 @@
 # Open Holo Privacy Policy
 
-Effective October 15, 2026. Fordyce Consulting Group, Inc., Rancho Cordova, California. Contact: support@fordycecg.com.
+Effective October 17, 2026. Fordyce Consulting Group, Inc., Rancho Cordova, California. Contact: support@fordycecg.com.
 
 ## In short
-Open Holo runs on your device. Fordyce does not run servers for it and does not collect, receive or sell any information about you, your collection or how you use the app. There are no accounts, ad networks, analytics or tracking. The app may show one sponsor card, the same for everyone; it is not targeted, and the app reports nothing about whether you see or tap it.
+Open Holo runs on your device. Fordyce does not collect, receive or sell any information about you, your collection or how you use the app. There are no accounts, ad networks, analytics or tracking. The app may show one sponsor card, the same for everyone; it is not targeted, and the app reports nothing about whether you see or tap it.
 
 ## What stays on your device
 Your collection, photos, wishlist, prices and settings are stored on your device. Keys for services you connect are stored in your device's secure keychain. If you turn on iCloud sync on Apple devices, your collection is stored in your own iCloud account under Apple's terms. On computers, Open Holo saves a daily backup of your collection to a folder on your device; if you choose a folder that a service such as Dropbox or iCloud Drive syncs, the backups are stored there under that service's terms.
 
 ## Who your device talks to
 To work, Open Holo connects directly from your device to:
+- Fordyce's card data files, which are public and the same for everyone;
 - card data sources (Scryfall, TCGdex, YGOPRODeck and Lorcast) to download card data, prices and images;
 - GitHub, where Fordyce publishes the version file, the sponsor card's picture, and the Windows and Linux downloads;
 - Apple's App Store, for App Store copies;
