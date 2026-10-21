@@ -14,7 +14,7 @@ Questions, problems or ideas: email [support@fordycecg.com](mailto:support@fordy
 
 ## Terms
 
-Holofoyl is free of charge and closed source. By installing it you accept the [licence](EULA.md); how it handles data is in the [privacy policy](PRIVACY.md).
+Holofoyl is free of charge and closed source. By installing it you accept the [licence](https://fordycecg.com/terms#holofoyl); how it handles data is in the [privacy policy](https://fordycecg.com/privacy#holofoyl). Both live on fordycecg.com.
 
 Card names, images and game names are trademarks of their respective owners. Holofoyl isn't affiliated with or endorsed by any game publisher or card data provider.
 
