@@ -7,7 +7,7 @@
     "windows": "https://github.com/jpetkevich/open-holo-releases/releases/latest",
     "linux": "https://github.com/jpetkevich/open-holo-releases/releases/latest"
   },
-  "app_store_url": null,
+  "app_store_url": "https://apps.apple.com/app/holofoyl/id6760555880",
   "catalog": {
     "base": "https://catalog.holotcg.io/v1/",
     "enabled": true
