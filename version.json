@@ -11,5 +11,19 @@
   "catalog": {
     "base": "https://catalog.holotcg.io/v1/",
     "enabled": true
+  },
+  "sources": {
+    "tcgdex-ko": {
+      "enabled": false,
+      "message": "Korean Pokémon cards are switched off for now. Your cards keep working."
+    },
+    "tcgdex-zht": {
+      "enabled": false,
+      "message": "Traditional Chinese Pokémon cards are switched off for now. Your cards keep working."
+    },
+    "tcgdex-id": {
+      "enabled": false,
+      "message": "Indonesian Pokémon cards are switched off for now. Your cards keep working."
+    }
   }
 }
