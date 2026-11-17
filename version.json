@@ -25,5 +25,13 @@
       "enabled": false,
       "message": "Indonesian Pokémon cards are switched off for now. Your cards keep working."
     }
+  },
+  "switches": {
+    "prices": {
+      "ygoprodeck-card": {
+        "enabled": false,
+        "message": "Some Yu-Gi-Oh! printings show no price for now, rather than another printing's price."
+      }
+    }
   }
 }
