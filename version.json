@@ -33,5 +33,10 @@
         "message": "Some Yu-Gi-Oh! printings show no price for now, rather than another printing's price."
       }
     }
+  },
+  "usage": {
+    "on": true,
+    "endpoint": "https://tivmlojtfsbwddfscoiq.supabase.co",
+    "key": "sb_publishable_n3pFNHAbNOLc7OAHk6Bd-w_H-ZNqnki"
   }
 }
